@@ -63,7 +63,8 @@ body{
 } */
 
 .footer{
-    background-color:transparent;
+    background-color: var(--primary-color);
+    padding:1rem;
 }
 .footer p{
     text-align: center;
